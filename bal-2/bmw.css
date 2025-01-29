@@ -1,0 +1,176 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.body{
+    width: 1220px;
+    margin: 0 auto;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    body {
+    font-family: Arial, sans-serif;
+    background-color: #f3e0cf;
+    }
+    
+    .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background-color: #f3e0cf;
+    }
+    
+    .logo {
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    color: #333;
+    }
+    
+    .logo span {
+    color: #4caf50;
+    }
+    
+    .nav-links {
+    display: flex;
+    gap: 20px;
+    }
+    
+    .nav-links a {
+    text-decoration: none;
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+    transition: color 0.3s;
+    }
+    
+    .nav-links a:hover {
+    color: #4caf50;
+    }
+
+    .good-coffee{
+        font-family: Roboto;
+        font-size: 64px;
+        font-weight: 700;
+        line-height: 75px;
+        text-align: left;
+        color: #000000;
+        width: 447px;
+        height: 150px;
+        top: 176px;
+        left: 50px;
+        gap: 0px;
+        opacity: 0px;
+        margin-bottom: 0 auto;
+        
+        }
+        
+        p{
+        font-family: sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        text-align: left;
+        width: 464px;
+        height: 72px;
+        top: 373px;
+        left: 50px;
+        gap: 0px;
+        opacity: 0px;
+        }
+        
+        
+        .container{
+        margin: 0 auto;
+        width: 1220px;
+        }
+        .img{
+            transform: translate(760px,0)
+        }
+        .img-2{
+            transform: translate(660px,-490px)
+        }
+        .p{
+            font-family: Roboto;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 30px;
+            text-align: left;
+            height: 56px;
+            top: 880px;
+            left: 744px;
+            gap: 0px;
+            opacity: 0px;
+        }
+        .new{
+            font-family: sans-serif;
+            font-size: 50px;
+            font-weight: 700;
+            line-height: 58.59px;
+            text-align: left;
+            width: 397px;
+            height: 118px;
+            top: 1562px;
+            left: 50px;
+            gap: 0px;
+            opacity: 0px;
+        }
+        .our{
+           font-family: sans-serif;
+           font-size: 48px;
+           font-weight: 700;
+           line-height: 56.25px;
+           text-align: right;
+           
+        }
+        .commitment-section {
+            display: flex;
+            align-items: center;
+            gap: 316px; 
+            background-color: aliceblue;
+            height: auto;
+        }
+        
+        .commitment-section img {
+            width: 450px; 
+        }
+        
+        .text {
+            max-width: 400px;
+        }
+        .birinchi-bola {
+            font-family: sans-serif;
+            font-size: 50px;
+            font-weight: 700;
+            line-height: 58.59px;
+            text-align: left;
+            left: 50px;
+        }
+        .ortancha-bola{
+            font-family: sans-serif;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 30px;
+            text-align: left;
+            gap: 28px;
+        }
+
+        .div{
+            transform: translate(950px,-160px);
+        }
+        
+       
+        
+        
+
+        
+        
